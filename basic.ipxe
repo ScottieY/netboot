@@ -1,0 +1,2 @@
+#!ipxe
+chain https://github.com/ScottieY/netboot/raw/master/netboot.efi dhcp.root-path="1.2.3.4:/nfs"
